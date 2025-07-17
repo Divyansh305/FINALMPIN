@@ -1,4 +1,4 @@
-#MPIN Strength Checker
+# MPIN Strength Checker
 
 This project is a Python-based solution for a MPIN (Mobile Banking Personal Identification Number) strength analysis task. It evaluates the security of 4 and 6-digit MPINs by checking them against common patterns and personal demographic data.
 
